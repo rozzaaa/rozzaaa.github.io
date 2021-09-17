@@ -1,13 +1,13 @@
 
 TITLE: 
-Multipurpose - 100% Fully Responsive Multipurpose Website Template
+Render - One Page Responsive Free HTML5 template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by FREEHTML5.co
 
-Website: https://freehtml5.co/
-Twitter: https://twitter.com/fh5co
-Facebook: https://facebook.com/fh5co
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
 CREDITS:
@@ -15,29 +15,32 @@ CREDITS:
 Bootstrap
 http://getbootstrap.com/
 
-Google Fonts
-https://www.google.com/fonts/
-
 jQuery
 http://jquery.com/
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-Loaders
-https://connoratherton.com/loaders
+Modernizr
+http://modernizr.com/
 
-AOS
-https://michalsnik.github.io/aos/
+Google Fonts
+https://www.google.com/fonts/
 
-Swiper
-http://www.idangero.us/swiper/
+Icomoon
+https://icomoon.io/app/
 
-lightgallery
-http://sachinchoolur.github.io/lightGallery/
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
-Demo Images:
-https://unsplash.com
-https://pexels.com
-https://lorempixel.com
+animate.css
+http://daneden.me/animate
 
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Superfish Menu
+http://users.tpg.com.au/j_birch/plugins/superfish/examples/
+
+hoverIntent
+https://github.com/briancherne/jquery-hoverIntent
